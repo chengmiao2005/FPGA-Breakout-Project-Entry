@@ -1,9 +1,11 @@
-# FPGA Breakout Game — Project Entry
+# FPGA Breakout Game — Historical Project Entry
 
-The project source and documentation are maintained in **[FPGAfinalproject](https://github.com/chengmiao2005/FPGAfinalproject)**.
+The maintained project is **[FPGA Breakout Game](https://github.com/chengmiao2005/FPGA-Breakout-Game)**.
 
-- [Game overview and build instructions](https://github.com/chengmiao2005/FPGAfinalproject)
-- [Verilog source](https://github.com/chengmiao2005/FPGAfinalproject/tree/main/src)
-- [Miao Cheng's electronic information project portfolio](https://github.com/chengmiao2005/FPGAfinalproject/blob/main/docs/PORTFOLIO.md)
+- [Project overview and build instructions](https://github.com/chengmiao2005/FPGA-Breakout-Game)
+- [Verilog source](https://github.com/chengmiao2005/FPGA-Breakout-Game/tree/main/src)
+- [FPGA lab index](https://github.com/chengmiao2005/FPGA-Labs)
 
-项目代码及运行说明见上面的主仓库。本页用于引导原有链接访问者。
+This repository was previously named `FPGA-final-project--breakoutgame`. It contains a historical entry page, not a separate implementation. It is retained as an archived reference.
+
+本仓库保留为旧项目入口。代码与运行说明请访问上面的主仓库。
